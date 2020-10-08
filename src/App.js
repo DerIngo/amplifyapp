@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We now have Auth!<br/>And we hopefully really can build.
+          We now have Auth!<br/>And we hopefully really can build. 3rd try.
         </p>
       </header>
       <AmplifySignOut />
